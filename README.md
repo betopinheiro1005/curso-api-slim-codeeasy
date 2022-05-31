@@ -1,11 +1,5 @@
 # Curso de APIs REST com PHP 7 e Slim Framework
-## codeeay (Felipe Renan Vieira)
-
-### Instalação de dependências
-
-```bash
-composer install
-```
+## Code Easy (Felipe Renan Vieira)
 
 ### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=vVkOUXpuuJg&list=PLZ8kYL6LBgg62kzIa6Io42Ccz_rWJBS-l)  
 
